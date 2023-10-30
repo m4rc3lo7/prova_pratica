@@ -1,0 +1,12 @@
+
+n1=int(input('digite um numero correspondente ao dia da semana (de 1 a 7):'))
+if n1==1: print('domingo')
+if n1==2: print('segunda')
+if n1==3: print('terça')
+if n1==4: print('quarta')
+if n1==5: print('quinta')
+if n1==6: print('sexta')
+if n1==7: print('sabado')
+
+else :
+    print('digite outro numero a não ser de 1 a 7')
